@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+Template already prepared for changing without internet connection. All dependences are already exist.
 
 # Project Goals
 
